@@ -1,7 +1,7 @@
 # Hy there, welcome to My UI/UX Design Portfolio
 
 Welcome to my design space!  
-This repository highlights my creativity, design thinking, and modern UI/UX concepts crafted using **Figma**.
+This repository highlights my creativity, design thinking, and modern UI/UX concepts crafted using **Figma** , **Adobe Photoshop** & **Adobe Illustrator**.
 
 ---
 
